@@ -23,8 +23,8 @@ Follow these steps to get the project running locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url-here>
-cd flodo_assignment
+git clone https://github.com/Keerthana-Chowdary/Flutter-Task-Management-App
+cd Flutter-Task-Management-App
 ```
 
 ### 2. Backend Setup (Flask)
